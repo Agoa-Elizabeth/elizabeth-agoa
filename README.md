@@ -18,20 +18,21 @@ I specialize in software development, secure, and scalable backend systems. With
 
 ###  Featured Projects
 
-**Budgeting App API & Frontend**
-- Featuring user authentication, transaction categorization.
-- **Tech:** Django REST Framework, PostgreSQL, JWT Authentication.
+** Inventory Managment **
+- Featuring user authentication, Role based access, Validations.
+- **Tech:** Python django, SQLite3, HTML.
 
-**E-Learning Platform Backend**
-- Developed the core backend services for a course platform, including user roles, course enrollment, and progress tracking.
-- **Tech:** Node.js, Express, PostgreSQL, RESTful API design.
+**Fundraising Platform Backend and frontend **
+- Developed the core backend services for a course platform, including role basd access, campaign creation, and progress tracking.
+- Implemented backend Apis in frontend
+- **Tech:** DjangoRestframe work, React, PostgreSQL, RESTful API design, JWT Authentication.
 
 ---
 
 ### Current Focus
 
 I am currently deepening my expertise in:
-*   **Cloud Infrastructure:** Designing and deploying scalable applications on AWS.
+*   **Fullstack development:** Creating APIs, .
 *   **Software Delivery Lifecycle:** Implementing efficient CI/CD pipelines with GitHub Actions to ensure code quality and streamline deployments.
 
 ---
