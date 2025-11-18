@@ -10,7 +10,7 @@ I specialize in software development, secure, and scalable backend systems. With
 ### Core Competencies & Tech Stack
 
 *   **Backend Development:** Python, Django 
-*   **Databases:** PostgreSQL, Database Design & Optimization
+*   **Databases:** PostgreSQL, Database Design 
 *   **API Design & Testing:** RESTful Principles, API Documentation, Postman, swagger
 *   **DevOps & Tools:** Git, Docker, CI/CD (GitHub Actions)
 
